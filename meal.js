@@ -56,4 +56,5 @@ const displayMealDetails=meal=>{
   <img src="${meal.strMealThumb}" class="img-fluid" alt="...">`;
 }
 
+
 loadMeals("rice");
